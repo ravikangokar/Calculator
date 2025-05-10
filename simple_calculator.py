@@ -1,3 +1,4 @@
+#single line comment
 import tkinter as tk
 
 def click(event):
